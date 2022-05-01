@@ -6,3 +6,9 @@ you unzip the folder
 open vs community then open local folder or something like that its a folder icon
 find the menupatch folder open that 
 then your done i could be wrong i havnt used this in a while
+
+
+
+
+
+OUTDATED: tag all and tag gun (i may fix it at some point)
